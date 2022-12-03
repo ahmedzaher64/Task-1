@@ -1,0 +1,11 @@
+E:\Courses\Projects\task 1\bin\Debug\task 1.exe.config
+E:\Courses\Projects\task 1\bin\Debug\task 1.exe
+E:\Courses\Projects\task 1\bin\Debug\task 1.pdb
+E:\Courses\Projects\task 1\obj\Debug\task 1.csproj.AssemblyReference.cache
+E:\Courses\Projects\task 1\obj\Debug\task 1.csproj.SuggestedBindingRedirects.cache
+E:\Courses\Projects\task 1\obj\Debug\task_1.Form1.resources
+E:\Courses\Projects\task 1\obj\Debug\task_1.Properties.Resources.resources
+E:\Courses\Projects\task 1\obj\Debug\task 1.csproj.GenerateResource.cache
+E:\Courses\Projects\task 1\obj\Debug\task 1.csproj.CoreCompileInputs.cache
+E:\Courses\Projects\task 1\obj\Debug\task 1.exe
+E:\Courses\Projects\task 1\obj\Debug\task 1.pdb
